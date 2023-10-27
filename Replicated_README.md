@@ -13,7 +13,7 @@ Here is a To Do List:
 ## This line is an H2 Heading
 *Here is some italic text*
 
-Here is some plain text followed by the siplest Python program:
+Here is some plain text followed by the simplest Python program:
 `print(Hello World!);`
 
 ### This line is an H3 Heading
